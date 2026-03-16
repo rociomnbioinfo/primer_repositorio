@@ -2,3 +2,4 @@
 *.fastq
 *.bam
 Thumbs.db
+data/

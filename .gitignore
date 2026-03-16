@@ -1,0 +1,4 @@
+.vscode/
+*.fastq
+*.bam
+Thumbs.db
